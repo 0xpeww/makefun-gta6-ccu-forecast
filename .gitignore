@@ -1,0 +1,6 @@
+out/
+out_before/
+out_after/
+lab/
+CODEX_BRIEF.txt
+__pycache__/
